@@ -4,14 +4,9 @@
 
   + Установка
     + pip install colorama
-      + pip3 install colorama
-      + git clone https://github.com/x11-repo/hack-tools.git
+    + pip3 install colorama
+    + git clone https://github.com/x11-repo/hack-tools.git
 
-+ ul
-  + ul - для вложенных списков нужно поставить 2 пробела
-    + ul - третий уровень
-      + ul - четвёртый уровень
-        + ul - пятый и т.д.
 <br>
 * Запуск
  * cd
