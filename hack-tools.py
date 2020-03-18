@@ -18,7 +18,7 @@ def menu():
 	print(Fore.GREEN+f"{Fore.BLUE}======================================")
 	print(Fore.GREEN+f"{Style.RESET_ALL}Created By x11repo a.k.a Aqua")
 	print(Fore.GREEN+f"{Style.RESET_ALL}Web-site: x11repo.site")
-	print(Fore.GREEN+f"{Style.RESET_ALL}Ver: 3.0")
+	print(Fore.GREEN+f"{Style.RESET_ALL}Ver: 1.0")
 	print(Fore.GREEN+f"{Fore.BLUE}======================================")
 	print(Fore.GREEN+f"{Style.RESET_ALL}00. Установить всё.")
 	print(Fore.BLUE+f"--------------------------------------"+Style.RESET_ALL)
