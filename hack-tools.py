@@ -8,44 +8,62 @@ from colorama import Fore, Back, Style
 #Кстати если знаешь нормальный обфускатор напиши мне - vk.com/x11repo#
 
 def menu():
-
-    print(Fore.GREEN+f""" 
-╔╗ ╔╗        ╔╗  ╔════╗        ╔╗
-║║ ║║        ║║  ║╔╗╔╗║        ║║
-║╚═╝║╔══╗╔══╗║║╔╗╚╝║║╚╝╔══╗╔══╗║║ ╔══╗
-║╔═╗║║╔╗║║╔═╝║╚╝╝  ║║  ║╔╗║║╔╗║║║ ║══╣
-║║ ║║║╔╗║║╚═╗║╔╗╗  ║║  ║╚╝║║╚╝║║╚╗╠══║
-╚╝ ╚╝╚╝╚╝╚══╝╚╝╚╝  ╚╝  ╚══╝╚══╝╚═╝╚══╝{Style.RESET_ALL}
-{Fore.BLUE}======================================
-{Style.RESET_ALL}Created By x11repo a.k.a Aqua
-Web-site: x11repo.site
-Ver: 3.0
-{Fore.BLUE}======================================
-{Style.RESET_ALL}00. Установить всё.
---------------------------------------
-{Style.RESET_ALL}1. Установить {Fore.GREEN}Nmap 
-{Style.RESET_ALL}2. Установить {Fore.GREEN}Hydra
-{Style.RESET_ALL}3. Установить {Fore.GREEN}SQLMap
-{Style.RESET_ALL}4. Установить {Fore.GREEN}Metasploit
-{Style.RESET_ALL}5. Установить {Fore.GREEN}ngrok
-{Style.RESET_ALL}6. Установить {Fore.GREEN}Kali Nethunter
-{Style.RESET_ALL}7. Установить {Fore.GREEN}angryFuzzer
-{Style.RESET_ALL}8. Установить {Fore.GREEN}Red_Hawk
-{Style.RESET_ALL}9. Установить {Fore.GREEN}Weeman
-{Style.RESET_ALL}10. Установить {Fore.GREEN}IPGeoLocation
-{Style.RESET_ALL}11. Установить {Fore.GREEN}Cupp
-{Style.RESET_ALL}12. Instagram {Fore.GREEN}Bruteforcer (instahack)
-{Style.RESET_ALL}13. Twitter {Fore.GREEN}Bruteforcer   (TwitterSniper)
-{Style.RESET_ALL}14. Установить {Fore.GREEN}Ubuntu
-{Style.RESET_ALL}15. Установить {Fore.GREEN}Fedora
-{Style.RESET_ALL}16. Установить {Fore.GREEN}viSQL
-{Style.RESET_ALL}17. Установить {Fore.GREEN}Hash-Buster
-{Style.RESET_ALL}18. Установить {Fore.GREEN}D-TECT
-{Style.RESET_ALL}19. Установить {Fore.GREEN}routersploit
-------------------------------------------
-99. {Fore.RED}Выход.{Fore.BLUE}
-==========================================
-"""+Style.RESET_ALL)
+	os.system("clear")
+	print(Fore.GREEN+f"╔╗ ╔╗        ╔╗  ╔════╗        ╔╗")
+	print(Fore.GREEN+f"║║ ║║        ║║  ║╔╗╔╗║        ║║")
+	print(Fore.GREEN+f"║╚═╝║╔══╗╔══╗║║╔╗╚╝║║╚╝╔══╗╔══╗║║ ╔══╗")
+	print(Fore.GREEN+f"║╔═╗║║╔╗║║╔═╝║╚╝╝  ║║  ║╔╗║║╔╗║║║ ║══╣")
+	print(Fore.GREEN+f"║║ ║║║╔╗║║╚═╗║╔╗╗  ║║  ║╚╝║║╚╝║║╚╗╠══║")
+	print(Fore.GREEN+f"╚╝ ╚╝╚╝╚╝╚══╝╚╝╚╝  ╚╝  ╚══╝╚══╝╚═╝╚══╝{Style.RESET_ALL}")
+	print(Fore.GREEN+f"{Fore.BLUE}======================================")
+	print(Fore.GREEN+f"{Style.RESET_ALL}Created By x11repo a.k.a Aqua")
+	print(Fore.GREEN+f"{Style.RESET_ALL}Web-site: x11repo.site")
+	print(Fore.GREEN+f"{Style.RESET_ALL}Ver: 3.0")
+	print(Fore.GREEN+f"{Fore.BLUE}======================================")
+	print(Fore.GREEN+f"{Style.RESET_ALL}00. Установить всё.")
+	print(Fore.BLUE+f"--------------------------------------"+Style.RESET_ALL)
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}1. Установить {Fore.GREEN}Nmap")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}2. Установить {Fore.GREEN}Hydra")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}3. Установить {Fore.GREEN}SQLMap")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}4. Установить {Fore.GREEN}Metasploit")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}5. Установить {Fore.GREEN}ngrok")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}6. Установить {Fore.GREEN}Kali Nethunter")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}7. Установить {Fore.GREEN}angryFuzzer")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}8. Установить {Fore.GREEN}Red_Hawk")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}9. Установить {Fore.GREEN}Weeman")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}10. Установить {Fore.GREEN}IPGeoLocation")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}11. Установить {Fore.GREEN}Cupp")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}12. Instagram {Fore.GREEN}Bruteforcer (instahack)")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}13. Twitter {Fore.GREEN}Bruteforcer   (TwitterSniper)")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}14. Установить {Fore.GREEN}Ubuntu")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}15. Установить {Fore.GREEN}Fedora")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}16. Установить {Fore.GREEN}viSQL")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}17. Установить {Fore.GREEN}Hash-Buster")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}18. Установить {Fore.GREEN}D-TECT")
+	time.sleep(0.5)
+	print(Fore.GREEN+f"{Style.RESET_ALL}19. Установить {Fore.GREEN}routersploit")
+	time.sleep(0.5)
+	print(Fore.BLUE+f"------------------------------------------"+Style.RESET_ALL)
+	print(Fore.GREEN+f"{Style.RESET_ALL}99. {Fore.RED}Выход.{Fore.BLUE}")
+	print(Fore.BLUE+f"=========================================="+Style.RESET_ALL)
 
 loop = True
 
