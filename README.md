@@ -8,8 +8,10 @@
     + git clone https://github.com/x11-repo/hack-tools.git
 
 <br>
-* Запуск
- * cd
-  * cd hack-tools
-   * python3 hack-tools.py
- 
+
+  + Запуск
+    + cd
+    + cd hack-tools.py
+    + python3 hack-tools.py
+
+# Приятного хакинга друг :)
