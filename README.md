@@ -3,6 +3,8 @@
 <br>
 
   + ***Установка***
+    + *apt-get update*
+    + *apt-get upgrade*
     + *apt-get install python*
     + *apt-get install python3*
     + *pip3 install colorama* **или** *pip install colorama*
@@ -13,6 +15,6 @@
   + ***Запуск***
     + *cd*
     + *cd hack-tools.py*
-    + *python3 hack-tools.py*
+    + *sudo python3 hack-tools.py*
 
 ### Приятного хакинга друг :)
