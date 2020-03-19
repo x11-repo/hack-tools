@@ -37,7 +37,7 @@
   + ***Запуск***
     + *cd*
     + *cd hack-tools*
-    + *sudo python3 hack-tools.pyc*
+    + *sudo python3 HackTools.pyc*
     
 <br>
 
@@ -47,7 +47,7 @@
 
 ### Приятного хакинга друг :)
 ## Доска почёта
-Отдельную благодарность выражаю ***QWIER***, ***Хауди Хо***
+Отдельную благодарность выражаю ***QWIER*****,** ***Хауди Хо***
 <br>
 
 ![240-2407034_python-logo-clipart-tail-leaflet](https://user-images.githubusercontent.com/61265099/77120042-ee836700-6a48-11ea-9c8c-0db73ccc9c14.jpg)
