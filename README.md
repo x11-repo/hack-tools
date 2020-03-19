@@ -14,8 +14,8 @@
 
   + ***Запуск***
     + *cd*
-    + *cd hack-tools.py*
-    + *sudo python3 hack-tools.py*
+    + *cd hack-tools*
+    + *sudo python3 hack-tools.pyc*
 
 ### Приятного хакинга друг :)
 ## Доска почёта
