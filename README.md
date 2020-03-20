@@ -48,7 +48,7 @@
   + ***Запуск***
     + *cd*
     + *cd hack-tools*
-    + *sudo python3 HackTools.pyc*
+    + *sudo python3 HackTools.py*
     
 <br>
 
