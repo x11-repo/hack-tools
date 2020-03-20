@@ -1,3 +1,16 @@
 language: python
-rvm:
- - 3.7
+
+python:
+  - "3.6"
+  - "3.7"
+
+env:
+  - colorama=0.4.3
+  - pip=9.0.1
+  - pip3=9.0.1
+
+install:
+  - pip install colorama
+  - pip3 install colorama
+
+script: python multi_sessions/HackTools.py
