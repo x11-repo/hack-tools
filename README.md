@@ -61,6 +61,11 @@
     + *cd hack-tools*
     + *sudo python3 HackTools.py*
     
+  + ***Запуск через Termux***
+    + *cd*
+    + *cd hack-tools*
+    + *python3 HackPhone.py*
+    
 <br>
 
   + ***Обновление***
