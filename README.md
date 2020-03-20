@@ -43,12 +43,14 @@
 
 
   + ***Установка***
-    + *apt-get update*
-    + *apt-get upgrade*
-    + *apt-get install python*
-    + *apt-get install python3*
-    + *pip3 install colorama* **или** *pip install colorama*
+    + *apt update*
+    + *apt upgrade*
+    + *apt install python*
+    + *apt install python3*
+    + *apt install git*
     + *git clone https://github.com/x11-repo/hack-tools.git*
+    + *sudo python3 get-pip.py*
+    + *pip3 install colorama* **или** *pip install colorama*
 
 <br>
 
