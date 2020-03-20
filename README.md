@@ -4,7 +4,6 @@
 ![Size](https://img.shields.io/github/repo-size/x11-repo/hack-tools)
 ![Analisy](https://img.shields.io/badge/quality-4.862-success)
 [![Passing: build](https://img.shields.io/badge/build-passing-green.svg)](https://img.shields.io/badge/build-passing-green)
-![Downloads](https://img.shields.io/github/downloads/x11-repo/hack-tools/total)
 ![Bugs](https://img.shields.io/badge/bug%2072-fixed-blueviolet)
 ![platforms](https://img.shields.io/badge/platform's-Linux%20%7C%20Ubuntu%20%7C%20Termux%20%7C%20Windows%2010-important)
 ![commist](https://img.shields.io/github/last-commit/x11-repo/hack-tools)
