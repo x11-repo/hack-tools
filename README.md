@@ -6,6 +6,7 @@
 [![Passing: build](https://img.shields.io/badge/build-passing-green.svg)](https://img.shields.io/badge/build-passing-green)
 ![Downloads](https://img.shields.io/github/downloads/x11-repo/hack-tools/total)
 ![Size](https://img.shields.io/github/repo-size/x11-repo/hack-tools)
+![Analisy](https://img.shields.io/badge/quality-4.862-success)
 
 </a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
