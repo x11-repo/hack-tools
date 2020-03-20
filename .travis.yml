@@ -10,4 +10,4 @@ env:
 install:
   - pip3 install colorama
 
-script: python3 hack-tools/HackTools.py
+script: python3 HackTools.py
