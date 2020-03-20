@@ -2,6 +2,7 @@
 
 
 ![1](https://user-images.githubusercontent.com/61265099/77120917-065bea80-6a4b-11ea-9f04-83ff172fb617.jpg)
+<a rel="license" href="http://creativecommons.org/licenses/by/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution 2.0 Generic License</a>.
 
 
 <h4>Привет юный хакер!<br> Хочешь познать мир хакинга, но нет времени устанавливать все репозитории отдельно? <br> Я пришел на помощь! Ведь в моём репозитории собранны более половины инструментов дистрибутива Kali Linux! Представляешь?!</h4>
