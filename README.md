@@ -10,7 +10,7 @@
 ![Test](https://img.shields.io/badge/test-%E2%9C%94%2078%20%7C%20%E2%9C%98%200-brightgreen)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-</a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</a><br />Эта работа лицензирована в соответствии с <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 <h4>Привет юный хакер!<br> Хочешь познать мир хакинга, но нет времени устанавливать все репозитории отдельно? <br> Я пришел на помощь! Ведь в моём репозитории собранны более половины инструментов дистрибутива Kali Linux! Представляешь?!</h4>
 
