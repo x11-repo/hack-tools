@@ -17,8 +17,8 @@
 <br>
 
 #### Вступай в наш телеграмм канал!
-#### Ссылка - https://teleg.run/hacktools666 
-#### Ник - @hacktools666
+#### Ссылка - https://teleg.run/hacktools666 / https://teleg.run/pythonamazing
+#### Ник - @hacktools666 / @pythonamazing
 
 <br>
 
