@@ -2,9 +2,10 @@
 
 
 ![1](https://user-images.githubusercontent.com/61265099/77120917-065bea80-6a4b-11ea-9f04-83ff172fb617.jpg)
+<a rel="license" href="http://creativecommons.org/licenses/by/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution 2.0 Generic License</a>.
 
 
-<h4>Привет юный хакер!<br> Хочешь познать мир хакинга, но нет времени устанавливать все репозитории отдельно? <br> Я пришел на помощь! Ведь в моём репозитории собранны более половины инструментов дистрибутива Kali Linux! Предстовляешь?!</h4>
+<h4>Привет юный хакер!<br> Хочешь познать мир хакинга, но нет времени устанавливать все репозитории отдельно? <br> Я пришел на помощь! Ведь в моём репозитории собранны более половины инструментов дистрибутива Kali Linux! Представляешь?!</h4>
 
 <br>
 
@@ -15,7 +16,7 @@
 
 <br>
 
-<h2> Обновление 0.4 Альфа! </h2>
+<h2> Обновление 0.4 Альфа!</h2>
 <h4> Добавленно огромное множество репозиториев<br> Пофикшенны многие баги<br> Добавленна возможность запуска репозиториев напрямую</h4>
 
 <h3>Функционал (Будет добавляться)</h3>
@@ -37,7 +38,7 @@
   + ***Запуск***
     + *cd*
     + *cd hack-tools*
-    + *sudo python3 hack-tools.pyc*
+    + *sudo python3 HackTools.pyc*
     
 <br>
 
@@ -47,7 +48,7 @@
 
 ### Приятного хакинга друг :)
 ## Доска почёта
-Отдельную благодарность выражаю ***QWIER***, ***Хауди Хо***
+Отдельную благодарность выражаю ***QWIER*** **&** ***Хауди Хо***
 <br>
 
 ![240-2407034_python-logo-clipart-tail-leaflet](https://user-images.githubusercontent.com/61265099/77120042-ee836700-6a48-11ea-9c8c-0db73ccc9c14.jpg)
