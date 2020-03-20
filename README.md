@@ -1,12 +1,14 @@
 # 🔹🐍🔹 Hack Tools Alpha 🔹🐍🔹
 
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Passing: build](https://img.shields.io/badge/build-passing-green.svg)](https://img.shields.io/badge/build-passing-green)
-![Downloads](https://img.shields.io/github/downloads/x11-repo/hack-tools/total)
 ![Size](https://img.shields.io/github/repo-size/x11-repo/hack-tools)
 ![Analisy](https://img.shields.io/badge/quality-4.862-success)
+[![Passing: build](https://img.shields.io/badge/build-passing-green.svg)](https://img.shields.io/badge/build-passing-green)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Downloads](https://img.shields.io/github/downloads/x11-repo/hack-tools/total)
+![Bugs](https://img.shields.io/badge/bug%2072-fixed-blueviolet)
+![platforms](https://img.shields.io/badge/platform's-Linux%20%7C%20Ubuntu%20%7C%20Termux%20%7C%20Windows%2010-important)
 
 </a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
