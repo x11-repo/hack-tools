@@ -104,7 +104,7 @@ if POL == "y":
 					print("[INFO] Можешь свернуть терминал и идти смотреть мультики...")
 					print("Потому-что это займёт много времени.")
 					print(Fore.BLUE+f"========================================================"+Style.RESET_ALL)
-					print(Fore.WHITE+f"{Back.RED}\nНо лучше следить за установкой, так-как при клонировании будет спрашивать логин и пароль от гитхаба\n И подтверждение (y)"+Style.RESET_ALL)
+					print(Fore.WHITE+f"{Back.RED}\nНо лучше следить за установкой, так-как при клонировании будет спрашивать подтверждение."+Style.RESET_ALL)
 					time.sleep(8)
 					os.system("apt update")
 					os.system("apt install -y git")
@@ -267,9 +267,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 
 					menu1 = input("$ > ")
@@ -327,9 +325,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 
 					menu1 = input("$ > ")
@@ -373,9 +369,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 
 					menu1 = input("$ > ")
@@ -430,9 +424,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 					
 					menu1 = input("$ > ")
@@ -487,9 +479,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 					
 					menu1 = input("$ > ")
@@ -547,9 +537,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 					
 					menu1 = input("$ > ")
@@ -592,9 +580,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 					
 					menu1 = input("$ > ")
@@ -646,9 +632,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 					
 					menu1 = input("$ > ")
@@ -699,9 +683,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 					
 					menu1 = input("$ > ")
@@ -750,9 +732,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 
 					menu1 = input("$ > ")
@@ -804,9 +784,7 @@ if POL == "y":
 					print(Fore.GREEN+f"{Style.RESET_ALL}12. Стресс-тестирование")
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 
 					menu1 = input("$ > ")
@@ -858,9 +836,7 @@ if POL == "y":
 					print(Fore.YELLOW+f"          0412) terminEtEr"+Style.RESET_ALL) ##  sudo termineter
 					print(Fore.GREEN+f"{Style.RESET_ALL}13. Системные сервисы")
 					print(Fore.BLUE+f"====================================")
-					time.sleep(0.2)
 					print(Fore.GREEN+f"Для обновления введите '7777'")
-					time.sleep(0.2)
 					print(Fore.BLUE+f"====================================")
 				
 					menu1 = input("$ > ")
