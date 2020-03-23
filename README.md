@@ -1,5 +1,6 @@
 # 🔹🐍🔹 Hack Tools Alpha 🔹🐍🔹 
 
+## Завтра (24.03.20) глобальное обновление!
 
 ![Size](https://img.shields.io/github/repo-size/x11-repo/hack-tools)
 ![Analisy](https://img.shields.io/badge/quality-4.862-success)
