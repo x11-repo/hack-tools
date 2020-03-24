@@ -49,7 +49,7 @@
 
 
   + ***Установка***
-    + *Faq по установке на любую ОС найдешь* <a href"https://x11repo.site/HackTools/FAQ/">здесь</a>
+    + *Faq по установке на любую ОС найдешь* [здесь.](https://x11repo.site/HackTools/FAQ/)
 
 <br>
 
