@@ -1,6 +1,6 @@
 # 🔹🐍🔹 Hack Tools Alpha 🔹🐍🔹 
 
-## Завтра (24.03.20) глобальное обновление!
+## Глобальное обновление 0.5 Beta переносится на завтра.
 
 ![Size](https://img.shields.io/github/repo-size/x11-repo/hack-tools)
 ![Analisy](https://img.shields.io/badge/quality-4.862-success)
@@ -49,15 +49,7 @@
 
 
   + ***Установка***
-    + *apt update*
-    + *apt upgrade*
-    + *apt install python*
-    + *apt install python3*
-    + *apt install git*
-    + *git clone https://github.com/x11-repo/hack-tools.git*
-    + *cd && cd hack-tools*
-    + *sudo python3 get-pip.py*
-    + *pip3 install colorama* **или** *pip install colorama*
+    + *Faq по установке на любую ОС найдешь <a href"здесь">https://x11repo.site/HackTools/FAQ/<a>*
 
 <br>
 
