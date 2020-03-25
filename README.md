@@ -1,6 +1,6 @@
 # 🔹🐍🔹 Hack Tools Alpha 🔹🐍🔹 
 
-## Глобальное обновление 0.5 Beta переносится на завтра.
+## Глобальное обновление 0.5 Beta переносится до 28 марта.
 
 ![Size](https://img.shields.io/github/repo-size/x11-repo/hack-tools)
 ![Analisy](https://img.shields.io/badge/quality-4.862-success)
