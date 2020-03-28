@@ -82,4 +82,5 @@
 <h3>Функционал (Будет добавляться) </h3>
 <br>
 
-![gg3c3a23ddff](https://user-images.githubusercontent.com/61265099/77835719-86c3cf00-7160-11ea-9699-44eade73c99f.gif)
+![gg3c3a23ddff (1)](https://user-images.githubusercontent.com/61265099/77835750-dc987700-7160-11ea-8f2d-7ebfaf5d0cf3.gif)
+
