@@ -79,7 +79,7 @@
 ![240-2407034_python-logo-clipart-tail-leaflet](https://user-images.githubusercontent.com/61265099/77120042-ee836700-6a48-11ea-9c8c-0db73ccc9c14.jpg)
 
 <br>
-<h3>Функционал (Будет добавляться)</h3>
+<h3>Функционал (Будет добавляться) </h3>
 <br>
 
 ![Gifff](https://user-images.githubusercontent.com/61265099/77121675-cc8be380-6a4c-11ea-8660-2cecb287aab6.gif)
