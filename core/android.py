@@ -85,7 +85,7 @@ def menu(selected = ""):
 		os.system("cd && rm -rf hack-tools && git clone https://github.com/x11-repo/hack-tools.git")
 		print(Fore.BLUE+f"=====================================\n{Fore.GREEN}[INFO]{Style.RESET_ALL}Hack Tools \nбыл успешно обновлён.\n{Fore.GREEN}[INFO]{Style.RESET_ALL}Через 5 секунд он будет\n автоматически запущен\n{Fore.BLUE}====================================="+Style.RESET_ALL)
 		time.sleep(5)
-		os.system("cd && cd hack-tools && python3 HackPhone.py")
+		os.system("cd && cd hack-tools && python3 HackTools.py")
 
 	if selected == "999":
 		print(Fore.BLUE+f"\n======================================"+Style.RESET_ALL)
