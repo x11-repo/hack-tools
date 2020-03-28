@@ -6,5 +6,5 @@ tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/
 community_bridge: # Replace with a single Community Bridgeproject-name e.g., cloud-foundry
 liberapay: # Replace with a single Liberapay usernam
 issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
+otechie: # Replace with asingle Otechie username
 custom: ['https://qiwi.com/n/X11REPO', 'BTC=1BRBH3QjciHYLShE8RdhHuaKwsqgDBdBew']
