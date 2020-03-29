@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-import time
-import getpass
 import string
-import smtplib as root
 import sys
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
-from time import sleep
 from colorama import Fore, Back, Style
 
 #Автор - x11repo#
