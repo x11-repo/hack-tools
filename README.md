@@ -2,7 +2,7 @@
 
 ***This Russian version***
 
-***English version - https://github.com/x11-repo/hack-tools !***
+***English version - https://github.com/x11-repo/hack-tools-en !***
 
 ## Глобальное обновление 1.0 Beta уже в сети! <br> Обновленна ПК версия, для Андроид обновлю в ближайшем времени :*
 
