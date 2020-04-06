@@ -12,7 +12,7 @@ from colorama import Fore, Back, Style
 
 #Автор - x11repo#
 #При копипасте пожалуйста указывайте меня как Автора и не удаляйте эти строки
-#!# Update 0.5 Beta #!#
+#!# Update 1.1 Beta #!#
 
 os.system("cls")
 os.system("clear")
