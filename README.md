@@ -16,6 +16,7 @@
 </a><br />Эта работа лицензирована в соответствии с <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 <h4>Привет юный хакер!<br> Хочешь познать мир хакинга, но нет времени устанавливать все репозитории отдельно? <br> Я пришел на помощь! Ведь в моём репозитории собранны более половины инструментов дистрибутива Kali Linux! Представляешь?!<br> Функционал данного репозитория можешь взглянуть в самом низу.</h4>
+
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 #### Вступай в наш телеграмм канал!
