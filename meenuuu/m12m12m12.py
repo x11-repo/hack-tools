@@ -12,7 +12,7 @@ print(Fore.GREEN+f"    ║║ ║║║╔╗║║╚═╗║╔╗╗  ║║
 print(Fore.GREEN+f"    ╚╝ ╚╝╚╝╚╝╚══╝╚╝╚╝  ╚╝  ╚══╝╚══╝╚═╝╚══╝{Style.RESET_ALL}")
 print(Fore.BLUE+f"                               a.k.a Kali Linux")
 print(Fore.BLUE+f"╔══════════════════════════════════════════════╗")
-print(Fore.BLUE+f"║{Style.RESET_ALL} Created By x11repo a.k.a Aqua                {Fore.BLUE}║"+Style.RESET_ALL)
+print(Fore.BLUE+f"║{Style.RESET_ALL} Created By x11repo a.k.a Dmitriy Popov       {Fore.BLUE}║"+Style.RESET_ALL)
 print(Fore.BLUE+f"║{Style.RESET_ALL} Telegram: https://teleg.run/hacktools666     {Fore.BLUE}║"+Style.RESET_ALL)
 print(Fore.BLUE+f"║{Style.RESET_ALL} Ver: 1.1 Beta                                {Fore.BLUE}║"+Style.RESET_ALL)
 print(Fore.BLUE+f"{Fore.BLUE}╠══════════════════════════════════════════════╣")
@@ -35,6 +35,7 @@ print(Fore.YELLOW+f"          0212) t50"+Style.RESET_ALL) ##  sudo t50 -h
 print(Fore.YELLOW+f"          0312) terminAtOr"+Style.RESET_ALL) ##  sudo terminator
 print(Fore.YELLOW+f"          0412) terminEtEr"+Style.RESET_ALL) ##  sudo termineter
 print(Fore.BLUE+f"║ {Style.RESET_ALL}13. Системные сервисы{Fore.BLUE}                        ║")
+print(Fore.BLUE+f"║ {Style.RESET_ALL}14. Выкачать сайт{Fore.BLUE}                            ║")
 print(Fore.BLUE+f"╠══════════════════════════════════════════════╣")
 print(Fore.BLUE+f"║ {Style.RESET_ALL}Для обновления введите '{Fore.GREEN}7777{Style.RESET_ALL}'{Fore.BLUE}                ║")
 print(Fore.BLUE+f"║ {Style.RESET_ALL}Если вы хотите сообщить о баге или           {Fore.BLUE}║\n║{Style.RESET_ALL} хотите что-то предложить - введите '{Fore.GREEN}007{Style.RESET_ALL}'   {Fore.BLUE}  ║")

@@ -296,6 +296,11 @@ def main():
             time.sleep(3)
             menu()
 
+        if selected == "14":
+            from core import download
+            deleteModules("m1m1m1")
+            menu1 = input("$ > ")
+
         if(not menu1.startswith("0")):
             # главные меню
             menu(menu1)

@@ -12,25 +12,25 @@ def code1():
         print(Style.RESET_ALL+f"\nНайти код вы можете в этом телеграм канале - {Fore.RED}https://teleg.run/hacktools666{Style.RESET_ALL}\nПост с кодом будет в закреплённом сообщении")
         code2 = input("Введите код: ")
         if code2 == "f5d73f159d742ea3e8b1d64febd54279": #MD5 HASH
-            print("[💚] Запуск...")
+            print("[ 💚 ] Запуск...")
             time.sleep(1)
             from core import exe
             pass
 
         else:
-            print("[💤] Введен неверный код.")
+            print("[ 💤 ] Введен неверный код.")
             time.sleep(3)
             code1()
 
     if code == "f5d73f159d742ea3e8b1d64febd54279": #MD5 HASH
-        print("[💚] Запуск...")
+        print("[ 💚 ] Запуск...")
         time.sleep(1)
         from core import exe
         pass
 
 
     else:
-        print("[💤] Введен неверный код.")
+        print("[ 💤 ] Введен неверный код.")
         time.sleep(3)
         code1()
 code1()
