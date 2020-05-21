@@ -15,13 +15,13 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 </a><br />Эта работа лицензирована в соответствии с <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
-<h4>Привет юный хакер!<br> Хочешь познать мир хакинга, но нет времени устанавливать все репозитории отдельно? <br> Я пришел на помощь! Ведь в моём репозитории собранны более половины инструментов дистрибутива Kali Linux! Представляешь?!<br> Функционал данного репозитория можешь взглянуть в самом низу.</h4>
+<h4>Привет юный хакер!<br> Хочешь познать мир хакинга, но нет времени устанавливать все репозитории отдельно? <br> Я пришел на помощь! Ведь в моём репозитории собранны более половины инструментов дистрибутива Kali Linux! Представляешь?!</h4>
 
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 #### Вступай в наш телеграмм канал!
-#### Ссылка - https://teleg.run/hacktools666 / https://teleg.run/pythonamazing
-#### Ник - @hacktools666 / @pythonamazing
+#### Ссылка - https://teleg.run/hacktools666 / https://teleg.run/codesafety
+#### Ник - @hacktools666 / @codesafety
 
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
@@ -43,9 +43,6 @@
 
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
-  + ***Установка***
-    + *Faq по установке на любую ОС найдешь* [здесь.](https://x11repo.site/HackTools/FAQ/)
-
   + ***Запуск на любой ОС***
     + *cd*
     + *cd hack-tools*
@@ -59,12 +56,8 @@
 
 ### Приятного хакинга друг :)
 ## Доска почёта
-Отдельную благодарность выражаю ***QWIER*** *&* ***Хауди Хо***
+Отдельную благодарность выражаю ***QWIER***
 <br>
 
 ![240-2407034_python-logo-clipart-tail-leaflet](https://user-images.githubusercontent.com/61265099/77120042-ee836700-6a48-11ea-9c8c-0db73ccc9c14.jpg)
-
-<h3>Функционал (Будет добавляться) </h3>
-
-![gg3c3a23ddff (1)](https://user-images.githubusercontent.com/61265099/77835750-dc987700-7160-11ea-8f2d-7ebfaf5d0cf3.gif)
 
