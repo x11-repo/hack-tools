@@ -12,7 +12,7 @@ print(Fore.GREEN+f"    ║║ ║║║╔╗║║╚═╗║╔╗╗  ║║
 print(Fore.GREEN+f"    ╚╝ ╚╝╚╝╚╝╚══╝╚╝╚╝  ╚╝  ╚══╝╚══╝╚═╝╚══╝{Style.RESET_ALL}")
 print(Fore.BLUE+f"                               a.k.a Kali Linux")
 print(Fore.BLUE+f"╔══════════════════════════════════════════════╗")
-print(Fore.BLUE+f"║{Style.RESET_ALL} Created By x11repo a.k.a Dmitriy Popov       {Fore.BLUE}║"+Style.RESET_ALL)
+print(Fore.BLUE+f"║{Style.RESET_ALL} Created By x11repo                           {Fore.BLUE}║"+Style.RESET_ALL)
 print(Fore.BLUE+f"║{Style.RESET_ALL} Telegram: https://teleg.run/hacktools666     {Fore.BLUE}║"+Style.RESET_ALL)
 print(Fore.BLUE+f"║{Style.RESET_ALL} Ver: 1.1 Beta                                {Fore.BLUE}║"+Style.RESET_ALL)
 print(Fore.BLUE+f"{Fore.BLUE}╠══════════════════════════════════════════════╣")
